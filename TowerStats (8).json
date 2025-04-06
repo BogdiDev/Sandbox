@@ -38,6 +38,45 @@
             }
         ]
     },
+     "Zombie Man Consequences": {
+        "Type": "AOE",
+        "Image": "rbxassetid://109056748570166",
+        "Rarity": "Nightmare",
+        "PlacePrice": 10123,
+        "Max": 1,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 600,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 12345,
+                "Range": 25,
+                "Damage": 700,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 13456,
+                "Range": 29,
+                "Damage": 800,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 14567,
+                "Range": 30,
+                "Damage": 900,
+                "Cooldown": 0.1
+            }
+        ]
+    },
      "Cash Bag Freddy": {
         "Type": "Splash",
         "Image": "rbxassetid://126201169303715",
