@@ -38,12 +38,90 @@
             }
         ]
     },
+        "Toxic Foxy": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://74646305140691",
+        "Rarity": "Nightmare",
+        "PlacePrice": 15000,
+        "Max": 2,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 3000,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 17500,
+                "Range": 24,
+                "Damage": 3500,
+                "Cooldown": 1.4
+            },
+            {
+                "Price": 20000,
+                "Range": 27,
+                "Damage": 4500,
+                "Cooldown": 1.4
+            },
+            {
+                "Price": 25000,
+                "Range": 30,
+                "Damage": 5000,
+                "Cooldown": 1.3
+            }
+        ]
+    },
+        "Toxic Freddy": {
+        "Type": "Splash",
+        "Image": "rbxassetid://71164594197330",
+        "Rarity": "Mythic",
+        "PlacePrice": 3000,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 750,
+                "Cooldown": 2
+            },
+            {
+                "Price": 3500,
+                "Range": 18,
+                "Damage": 900,
+                "Cooldown": 1.9
+            },
+            {
+                "Price": 4000,
+                "Range": 20,
+                "Damage": 950,
+                "Cooldown": 1.8
+            },
+            {
+                "Price": 5500,
+                "Range": 23,
+                "Damage": 1000,
+                "Cooldown": 1.8
+            }
+        ]
+    },
         "Lucky Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://16620053009",
         "Rarity": "Secret",
         "PlacePrice": 600,
-        "Max": 8,
+        "Max": 2,
         "Offset": 0.3,
         "hitboxOffset": {
             "X": 0,
