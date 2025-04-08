@@ -38,6 +38,45 @@
             }
         ]
     },
+     "Toxic Witch Chica": {
+        "Type": "Splash",
+        "Image": "rbxassetid://16620053009",
+        "Rarity": "Secret",
+        "PlacePrice": 12500,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 19,
+                "Damage": 3575,
+                "Cooldown": 2
+            },
+            {
+                "Price": 15000,
+                "Range": 23,
+                "Damage": 3750,
+                "Cooldown": 1.8
+            },
+            {
+                "Price": 18500,
+                "Range": 25,
+                "Damage": 4000,
+                "Cooldown": 1.7
+            },
+            {
+                "Price": 20000,
+                "Range": 28,
+                "Damage": 4250,
+                "Cooldown": 1.6
+            }
+        ]
+    },
      "Cool Kid": {
         "Type": "AOE",
         "Image": "rbxassetid://107499416739190",
