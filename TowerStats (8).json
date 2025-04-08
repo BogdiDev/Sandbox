@@ -40,7 +40,7 @@
     },
      "Cool Kid": {
         "Type": "AOE",
-        "Image": "rbxassetid://118278257389654",
+        "Image": "rbxassetid://107499416739190",
         "Rarity": "Nightmare",
         "PlacePrice": 7500,
         "Max": 2,
@@ -749,26 +749,26 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 12,
-                "Damage": 20,
+                "Range": 16,
+                "Damage": 60,
                 "Cooldown": 0.05
             },
             {
                 "Price": 25000,
-                "Range": 14,
-                "Damage": 24,
+                "Range": 18,
+                "Damage": 80,
                 "Cooldown": 0.05
             },
             {
                 "Price": 30000,
-                "Range": 16,
-                "Damage": 30,
+                "Range": 20,
+                "Damage": 100,
                 "Cooldown": 0.05
             },
             {
                 "Price": 50000,
-                "Range": 18,
-                "Damage": 36,
+                "Range": 22,
+                "Damage": 120,
                 "Cooldown": 0.05
             }
         ]
