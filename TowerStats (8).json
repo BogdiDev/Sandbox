@@ -38,57 +38,6 @@
             }
         ]
     },
-       "Goliath's Consequences": {
-        "Type": "AOE",
-        "Image": "rbxassetid://112659672284119",
-        "Rarity": "Apex",
-        "PlacePrice": 40000,
-        "Offset": 0,
-        "Max": 2,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 27,
-                "Damage": 6000,
-                "Cooldown": 3.5
-            },
-            {
-                "Price": 50000,
-                "Range": 29,
-                "Damage": 7500,
-                "Cooldown": 3
-            },
-            {
-                "Price": 60000,
-                "Range": 32,
-                "Damage": 9000,
-                "Cooldown": 2.8
-            },
-            {
-                "Price": 70000,
-                "Range": 34,
-                "Damage": 11000,
-                "Cooldown": 2.7
-            },
-            {
-                "Price": 80000,
-                "Range": 35,
-                "Damage": 13500,
-                "Cooldown": 2.6
-            },
-            {
-                "Price": 90000,
-                "Range": 35,
-                "Damage": 15000,
-                "Cooldown": 2.5
-            }
-        ]
-    },
      "Red Impostor": {
         "Type": "Splash",
         "Image": "rbxassetid://104164781039507",
