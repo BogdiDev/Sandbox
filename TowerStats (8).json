@@ -38,7 +38,7 @@
             }
         ]
     },
-       "Old Goliath Freddy": {
+       "Goliath's Consequences": {
         "Type": "AOE",
         "Image": "rbxassetid://112659672284119",
         "Rarity": "Apex",
@@ -89,7 +89,7 @@
             }
         ]
     },
-     "Impostor": {
+     "Red Impostor": {
         "Type": "Splash",
         "Image": "rbxassetid://104164781039507",
         "Rarity": "Secret",
