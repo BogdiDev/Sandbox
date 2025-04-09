@@ -38,7 +38,7 @@
             }
         ]
     },
-       "Royal Freddy": {
+    "Royal Freddy": {
         "Type": "Splash",
         "Image": "rbxassetid://97855113285488",
         "Rarity": "Secret",
@@ -60,7 +60,7 @@
             {
                 "Price": 700,
                 "Range": 26,
-                "Damage": 500
+                "Damage": 500,
                 "Cooldown": 0.35
             },
             {
