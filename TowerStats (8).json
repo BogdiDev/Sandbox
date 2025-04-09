@@ -38,6 +38,45 @@
             }
         ]
     },
+     "Skelly Scott": {
+        "Type": "Splash",
+        "Image": "rbxassetid://127107389241542",
+        "Rarity": "Secret",
+        "PlacePrice": 5000,
+        "Max": 1,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 3500,
+                "Cooldown": 2
+            },
+            {
+                "Price": 6000,
+                "Range": 35,
+                "Damage": 4000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 7500,
+                "Range": 37.5,
+                "Damage": 4500,
+                "Cooldown": 2
+            },
+            {
+                "Price": 9000,
+                "Range": 40,
+                "Damage": 5000,
+                "Cooldown": 2
+            }
+        ]
+    },
        "Assasin Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://116284455861105",
