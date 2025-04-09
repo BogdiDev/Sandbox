@@ -41,7 +41,7 @@
         "Old Goliath Freddy": {
         "Type": "AOE",
         "Image": "rbxassetid://18777411515",
-        "Rarity": "Secret",
+        "Rarity": "Apex",
         "PlacePrice": 40000,
         "Offset": 0,
         "Max": 2,
@@ -54,32 +54,32 @@
             {
                 "Price": 0,
                 "Range": 27,
-                "Damage": 200,
-                "Cooldown": 0.8
+                "Damage": 6000,
+                "Cooldown": 3.5
             },
             {
-                "Price": 700,
-                "Range": 24,
-                "Damage": 320,
-                "Cooldown": 0.6
+                "Price": 50000,
+                "Range": 29,
+                "Damage": 7500,
+                "Cooldown": 3
             },
             {
-                "Price": 900,
-                "Range": 25,
-                "Damage": 340,
-                "Cooldown": 0.5
+                "Price": 60000,
+                "Range": 32,
+                "Damage": 10000,
+                "Cooldown": 2.8
             },
             {
-                "Price": 1000,
-                "Range": 26,
-                "Damage": 350,
-                "Cooldown": 0.4
+                "Price": 70000,
+                "Range": 35,
+                "Damage": 12500,
+                "Cooldown": 2.8
             },
             {
-                "Price": 1200,
-                "Range": 27,
-                "Damage": 360,
-                "Cooldown": 0.3
+                "Price": 80000,
+                "Range": 35,
+                "Damage": 14000,
+                "Cooldown": 2.6
             }
         ]
     },
