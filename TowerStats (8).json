@@ -38,6 +38,45 @@
             }
         ]
     },
+     "Small Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://101079647207414",
+        "Rarity": "Epic",
+        "PlacePrice": 700,
+        "Max": 4,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 14,
+                "Damage": 100,
+                "Cooldown": 1
+            },
+            {
+                "Price": 800,
+                "Range": 16,
+                "Damage": 140,
+                "Cooldown": 1
+            },
+            {
+                "Price": 900,
+                "Range": 20,
+                "Damage": 180,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 1250,
+                "Range": 22,
+                "Damage": 240,
+                "Cooldown": 0.75
+            }
+        ]
+    },
        "Blue Crewmate": {
         "Type": "Single",
         "Image": "rbxassetid://98812683316434",
