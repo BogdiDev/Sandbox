@@ -38,6 +38,45 @@
             }
         ]
     },
+       "Blue Crewmate": {
+        "Type": "Single",
+        "Image": "rbxassetid://98812683316434",
+        "Rarity": "Mythic",
+        "PlacePrice": 5000,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 7000,
+                "Range": 25,
+                "Damage": 575,
+                "Cooldown": 0.9
+            },
+            {
+                "Price": 7500,
+                "Range": 27,
+                "Damage": 650,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 9000,
+                "Range": 30,
+                "Damage": 700,
+                "Cooldown": 0.7
+            }
+        ]
+    },
      "Creeper": {
         "Type": "Nuke",
         "Image": "rbxassetid://16620053009",
