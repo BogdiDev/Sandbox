@@ -38,6 +38,45 @@
             }
         ]
     },
+     "Mewing Rich Freddy": {
+        "Type": "Splash",
+        "Image": "rbxassetid://125136375424168",
+        "Rarity": "Secret",
+        "PlacePrice": 9000,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 2.4
+            },
+            {
+                "Price": 10000,
+                "Range": 24,
+                "Damage": 1250,
+                "Cooldown": 2.25
+            },
+            {
+                "Price": 12000,
+                "Range": 27,
+                "Damage": 1350,
+                "Cooldown": 2.1
+            },
+            {
+                "Price": 13500,
+                "Range": 30,
+                "Damage": 1500,
+                "Cooldown": 2
+            }
+        ]
+    },
     "Nurse Freddy": {
         "Type": "Splash",
         "Image": "rbxassetid://90325655815704",
