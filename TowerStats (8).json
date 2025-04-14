@@ -38,6 +38,84 @@
             }
         ]
     },
+      "Massive Foxy": {
+        "Type": "Single",
+        "Image": "rbxassetid://16620053009",
+        "Rarity": "Mythic",
+        "PlacePrice": 1350,
+        "Max": 4,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 19,
+                "Damage": 235,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1500,
+                "Range": 21,
+                "Damage": 260,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1750,
+                "Range": 23,
+                "Damage": 300,
+                "Cooldown": 1
+            },
+            {
+                "Price": 2000,
+                "Range": 24,
+                "Damage": 335,
+                "Cooldown": 0.9
+            }
+        ]
+    },
+       "Toxic Purple Guy": {
+        "Type": "Poison",
+        "Image": "rbxassetid://16620053009",
+        "Rarity": "Secret",
+        "PlacePrice": 6655,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 21,
+                "Damage": 1700,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 7000,
+                "Range": 23,
+                "Damage": 1900,
+                "Cooldown": 2.4
+            },
+            {
+                "Price": 9000,
+                "Range": 24,
+                "Damage": 2000,
+                "Cooldown": 2.3
+            },
+            {
+                "Price": 10000,
+                "Range": 25,
+                "Damage": 2200,
+                "Cooldown": 2.2
+            }
+        ]
+    },
      "Toothless Big Chica": {
         "Type": "Poison",
         "Image": "rbxassetid://16620053009",
