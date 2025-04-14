@@ -38,6 +38,45 @@
             }
         ]
     },
+     "Toothless Big Chica": {
+        "Type": "Poison",
+        "Image": "rbxassetid://16620053009",
+        "Rarity": "Secret",
+        "PlacePrice": 8000,
+        "Max": 2,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 2300,
+                "Cooldown": 2.3
+            },
+            {
+                "Price": 10000,
+                "Range": 23,
+                "Damage": 2500,
+                "Cooldown": 2.2
+            },
+            {
+                "Price": 12350,
+                "Range": 26,
+                "Damage": 2750,
+                "Cooldown": 2.1
+            },
+            {
+                "Price": 15000,
+                "Range": 30,
+                "Damage": 3000,
+                "Cooldown": 2
+            }
+        ]
+    },
       "Small Bonnie": {
         "Type": "Continous Single",
         "Image": "rbxassetid://16620053009",
