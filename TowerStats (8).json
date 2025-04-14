@@ -38,6 +38,45 @@
             }
         ]
     },
+      "Small Bonnie": {
+        "Type": "Continous Single",
+        "Image": "rbxassetid://16620053009",
+        "Rarity": "Epic",
+        "PlacePrice": 800,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 16,
+                "Damage": 10,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 900,
+                "Range": 18,
+                "Damage": 15,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 1200,
+                "Range": 20,
+                "Damage": 20,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 1500,
+                "Range": 23,
+                "Damage": 25,
+                "Cooldown": 0.1
+            }
+        ]
+    },
      "Mewing Rich Freddy": {
         "Type": "Splash",
         "Image": "rbxassetid://125136375424168",
