@@ -38,6 +38,45 @@
             }
         ]
     },
+     "Easter Bonnie": {
+        "Type": "Splash",
+        "Image": "rbxassetid://120261269578917",
+        "Rarity": "Secret",
+        "PlacePrice": 15000,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 23,
+                "Damage": 2000,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 17500,
+                "Range": 25,
+                "Damage": 2350,
+                "Cooldown": 1.4
+            },
+            {
+                "Price": 20000,
+                "Range": 27,
+                "Damage": 2500,
+                "Cooldown": 1.3
+            },
+            {
+                "Price": 22500,
+                "Range": 30,
+                "Damage": 3000,
+                "Cooldown": 1.2
+            }
+        ]
+    },
      "Baby Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://101079647207414",
