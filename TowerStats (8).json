@@ -40,7 +40,7 @@
     },
      "Easter Springtrap": {
         "Type": "Pierce",
-        "Image": "rbxassetid://16620053009",
+        "Image": "rbxassetid://98610046728848",
         "Rarity": "Nightmare",
         "PlacePrice": 20000,
         "Max": 2,
@@ -79,7 +79,7 @@
     },
      "Easter Egg Freddy": {
         "Type": "Splash",
-        "Image": "rbxassetid://16620053009",
+        "Image": "rbxassetid://78244912679292",
         "Rarity": "Epic",
         "PlacePrice": 800,
         "Max": 3,
