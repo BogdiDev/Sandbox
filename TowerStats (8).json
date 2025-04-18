@@ -38,6 +38,45 @@
             }
         ]
     },
+     "Easter Foxy": {
+        "Type": "Single",
+        "Image": "rbxassetid://16620053009",
+        "Rarity": "Mythic",
+        "PlacePrice": 900,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18,
+                "Damage": 200,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1250,
+                "Range": 20,
+                "Damage": 250,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1500,
+                "Range": 21,
+                "Damage": 275,
+                "Cooldown": 0.9
+            },
+            {
+                "Price": 1750,
+                "Range": 23,
+                "Damage": 300,
+                "Cooldown": 0.75
+            }
+        ]
+    },
      "Easter Springtrap": {
         "Type": "Pierce",
         "Image": "rbxassetid://98610046728848",
