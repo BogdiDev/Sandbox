@@ -40,7 +40,7 @@
     },
        "Egg Endo": {
         "Type": "Damage Booster",
-        "Image": "rbxassetid://17851638702",
+        "Image": "rbxassetid://89948813159427",
         "Rarity": "Secret",
         "PlacePrice": 800,
         "NoEnemyAttack": true,
@@ -83,7 +83,7 @@
     },
      "Easter Foxy": {
         "Type": "Single",
-        "Image": "rbxassetid://16620053009",
+        "Image": "rbxassetid://109959179222447",
         "Rarity": "Mythic",
         "PlacePrice": 900,
         "Max": 3,
