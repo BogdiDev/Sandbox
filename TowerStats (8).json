@@ -38,6 +38,90 @@
             }
         ]
     },
+        "Bemmy Chica": {
+        "Type": "Nuke",
+        "Image": "rbxassetid://18777411515",
+        "Rarity": "Secret",
+        "PlacePrice": 6942,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 3500,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 6942,
+                "Range": 25,
+                "Damage": 3850,
+                "Cooldown": 2.4
+            },
+            {
+                "Price": 6942,
+                "Range": 27,
+                "Damage": 4000,
+                "Cooldown": 2.3
+            },
+            {
+                "Price": 6942,
+                "Range": 27,
+                "Damage": 4250,
+                "Cooldown": 2.3
+            },
+            {
+                "Price": 6942,
+                "Range": 30,
+                "Damage": 4500,
+                "Cooldown": 2.2
+            }
+        ]
+    },
+    "Royal Henry": {
+        "Type": "Single",
+        "Image": "rbxassetid://76533305522010",
+        "Rarity": "Secret",
+        "PlacePrice": 4000,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 24,
+                "Damage": 700,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 5000,
+                "Range": 27,
+                "Damage": 800,
+                "Cooldown": 0.7
+            },
+            {
+                "Price": 7500,
+                "Range": 30,
+                "Damage": 900,
+                "Cooldown": 0.6
+            },
+            {
+                "Price": 8000,
+                "Range": 32,
+                "Damage": 1000,
+                "Cooldown": 0.5
+            }
+        ]
+    },
        "Egg Endo": {
         "Type": "Damage Booster",
         "Image": "rbxassetid://89948813159427",
