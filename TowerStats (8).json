@@ -40,7 +40,7 @@
     },
         "Bemmy Chica": {
         "Type": "Nuke",
-        "Image": "rbxassetid://18777411515",
+        "Image": "rbxassetid://123220040376888",
         "Rarity": "Secret",
         "PlacePrice": 6942,
         "Offset": 0,
@@ -54,31 +54,31 @@
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 3500,
+                "Damage": 2500,
                 "Cooldown": 2.5
             },
             {
                 "Price": 6942,
                 "Range": 25,
-                "Damage": 3850,
+                "Damage": 2850,
                 "Cooldown": 2.4
             },
             {
                 "Price": 6942,
                 "Range": 27,
-                "Damage": 4000,
+                "Damage": 3000,
                 "Cooldown": 2.3
             },
             {
                 "Price": 6942,
                 "Range": 27,
-                "Damage": 4250,
+                "Damage": 3250,
                 "Cooldown": 2.3
             },
             {
                 "Price": 6942,
                 "Range": 30,
-                "Damage": 4500,
+                "Damage": 3500,
                 "Cooldown": 2.2
             }
         ]
