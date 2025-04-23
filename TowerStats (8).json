@@ -40,11 +40,11 @@
     },
     
     "Easter Chica": {
-        "Type": "Single",
+        "Type": "Splash",
         "Image": "rbxassetid://104870798780924",
-        "Rarity": "Uncommon",
-        "PlacePrice": 300,
-        "Max": 8,
+        "Rarity": "Mythic",
+        "PlacePrice": 1000,
+        "Max": 3,
         "Offset": 0.3,
         "hitboxOffset": {
             "X": 0,
@@ -54,27 +54,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
-                "Cooldown": 1
+                "Range": 18,
+                "Damage": 85,
+                "Cooldown": 0.5
             },
             {
-                "Price": 500,
-                "Range": 12,
-                "Damage": 50,
-                "Cooldown": 1
+                "Price": 1000,
+                "Range": 20,
+                "Damage": 100,
+                "Cooldown": 0.5
             },
             {
-                "Price": 750,
-                "Range": 14,
-                "Damage": 60,
-                "Cooldown": 1
+                "Price": 1350,
+                "Range": 21,
+                "Damage": 125,
+                "Cooldown": 0.5
             },
             {
-                "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
+                "Price": 1500,
+                "Range": 22,
+                "Damage": 150,
+                "Cooldown": 0.5
             }
         ]
     },
