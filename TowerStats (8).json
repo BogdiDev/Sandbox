@@ -38,7 +38,49 @@
             }
         ]
     },
-    
+        "EasterCade": {
+        "Type": "Farm",
+        "Image": "rbxassetid://138379421283152",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "NoEnemyAttack": true,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 3,
+                "Farm": 1000
+            },
+            {
+                "Price": 1500,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 2.8,
+                "Farm": 1250
+            },
+            {
+                "Price": 2000,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 2.6,
+                "Farm": 1500
+            },
+            {
+                "Price": 3000,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 2.5,
+                "Farm": 1750
+            }
+        ]
+    },
     "Easter Chica": {
         "Type": "Splash",
         "Image": "rbxassetid://104870798780924",
