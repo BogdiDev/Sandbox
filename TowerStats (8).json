@@ -38,6 +38,89 @@
             }
         ]
     },
+       "EasterCade": {
+        "Type": "Farm",
+        "Image": "rbxassetid://138379421283152",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "NoEnemyAttack": true,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 3
+                "Farm": 750
+            },
+            {
+                "Price": 1500,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 2.8
+                "Farm": 1000
+            },
+            {
+                "Price": 2000,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 2.6
+                "Farm": 1250
+            },
+            {
+                "Price": 3000,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 2.5
+                "Farm": 1500
+            }
+        ]
+    },
+
+    "Easter Chica": {
+        "Type": "Splash",
+        "Image": "rbxassetid://104870798780924",
+        "Rarity": "Mythic",
+        "PlacePrice": 1000,
+        "Max": 4,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18,
+                "Damage": 85,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 1000,
+                "Range": 20,
+                "Damage": 100,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 1100,
+                "Range": 22,
+                "Damage": 125,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 1350,
+                "Range": 24,
+                "Damage": 150,
+                "Cooldown": 0.4
+            }
+        ]
+    },
          "Savior Puppet": {
         "Type": "Pierce",
         "Image": "rbxassetid://76221474417937",
