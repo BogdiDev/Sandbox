@@ -38,6 +38,45 @@
             }
         ]
     },
+      "Nuggy Chica": {
+        "Type": "Poison",
+        "Image": "rbxassetid://104870798780924",
+        "Rarity": "Secret",
+        "PlacePrice": 6942,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 2000,
+                "Cooldown": 2.6
+            },
+            {
+                "Price": 6942,
+                "Range": 23,
+                "Damage": 2250,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 6942,
+                "Range": 25,
+                "Damage": 2500,
+                "Cooldown": 2.4
+            },
+            {
+                "Price": 6942,
+                "Range": 27,
+                "Damage": 2750,
+                "Cooldown": 2.3
+            }
+        ]
+    },
         "EasterCade": {
         "Type": "Farm",
         "Image": "rbxassetid://138379421283152",
