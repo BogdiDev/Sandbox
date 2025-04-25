@@ -38,6 +38,45 @@
             }
         ]
     },
+      "Error Freddy": {
+        "Type": "Nuke",
+        "Image": "rbxassetid://77901801404146",
+        "Rarity": "Nightmare",
+        "PlacePrice": 20000,
+        "Max": 1,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 5000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 25000,
+                "Range": 30,
+                "Damage": 6500,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 30000,
+                "Range": 34,
+                "Damage": 7500,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 30000,
+                "Range": 35,
+                "Damage": 8500,
+                "Cooldown": 2.4
+            }
+        ]
+    },
     
     "Bluudud": {
         "Type": "AOE",
