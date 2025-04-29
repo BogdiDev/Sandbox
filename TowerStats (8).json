@@ -38,6 +38,45 @@
             }
         ]
     },
+      "1x1x1": {
+        "Type": "Single",
+        "Image": "rbxassetid://71608304706197",
+        "Rarity": "Secret",
+        "PlacePrice": 6500,
+        "Max": 2,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 23,
+                "Damage": 800,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 6500,
+                "Range": 25,
+                "Damage": 900,
+                "Cooldown": 0.35
+            },
+            {
+                "Price": 7500,
+                "Range": 27,
+                "Damage": 950,
+                "Cooldown": 0.3
+            },
+            {
+                "Price": 8500,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 0.3
+            }
+        ]
+    },
       "Error Freddy": {
         "Type": "Nuke",
         "Image": "rbxassetid://77901801404146",
