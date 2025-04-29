@@ -40,10 +40,10 @@
     },
      "Guest": {
         "Type": "Single",
-        "Image": "rbxassetid://16620053009",
-        "Rarity": "Uncommon",
-        "PlacePrice": 300,
-        "Max": 8,
+        "Image": "rbxassetid://139075036031036",
+        "Rarity": "Epic",
+        "PlacePrice": 600,
+        "Max": 4,
         "Offset": 0.3,
         "hitboxOffset": {
             "X": 0,
@@ -53,33 +53,33 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
-                "Cooldown": 1
-            },
-            {
-                "Price": 500,
-                "Range": 12,
-                "Damage": 50,
-                "Cooldown": 1
+                "Range": 19,
+                "Damage": 130,
+                "Cooldown": 0.8
             },
             {
                 "Price": 750,
-                "Range": 14,
-                "Damage": 60,
-                "Cooldown": 1
+                "Range": 21,
+                "Damage": 150,
+                "Cooldown": 0.75
             },
             {
-                "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
+                "Price": 900,
+                "Range": 23,
+                "Damage": 175,
                 "Cooldown": 0.75
+            },
+            {
+                "Price": 1000,
+                "Range": 24,
+                "Damage": 200,
+                "Cooldown": 0.7
             }
         ]
     },
        "Noob Man": {
         "Type": "Range Booster",
-        "Image": "rbxassetid://18255863130",
+        "Image": "rbxassetid://98717349388172",
         "Rarity": "Mythic",
         "PlacePrice": 800,
         "NoEnemyAttack": true,
@@ -200,8 +200,8 @@
     },
     "Bluudud": {
         "Type": "AOE",
-        "Image": "rbxassetid://16620053009",
-        "Rarity": "Secret",
+        "Image": "rbxassetid://126450223503870",
+        "Rarity": "Divine",
         "PlacePrice": 10000,
         "Max": 2,
         "Offset": 0.3,
