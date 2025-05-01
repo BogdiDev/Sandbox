@@ -38,6 +38,162 @@
             }
         ]
     },
+     "Bald Boy": {
+        "Type": "Nuke",
+        "Image": "rbxassetid://119121229428477",
+        "Rarity": "Divine",
+        "PlacePrice": 10000,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 23,
+                "Damage": 1500,
+                "Cooldown": 2
+            },
+            {
+                "Price": 11000,
+                "Range": 25,
+                "Damage": 1750,
+                "Cooldown": 1.9
+            },
+            {
+                "Price": 12500,
+                "Range": 28,
+                "Damage": 2000,
+                "Cooldown": 1.8
+            },
+            {
+                "Price": 13500,
+                "Range": 32,
+                "Damage": 2100,
+                "Cooldown": 1.7
+            }
+        ]
+    },
+     "Bald Chica": {
+        "Type": "Poison",
+        "Image": "rbxassetid://89973201744215",
+        "Rarity": "Secret",
+        "PlacePrice": 4500,
+        "Max": 2,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 24,
+                "Damage": 1000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 4500,
+                "Range": 25,
+                "Damage": 1200,
+                "Cooldown": 1.8
+            },
+            {
+                "Price": 5500,
+                "Range": 27,
+                "Damage": 1300,
+                "Cooldown": 1.6
+            },
+            {
+                "Price": 7000,
+                "Range": 30,
+                "Damage": 1500,
+                "Cooldown": 1.5
+            }
+        ]
+    },
+     "Bald Freddy": {
+        "Type": "Splash",
+        "Image": "rbxassetid://119969470626197",
+        "Rarity": "Epic",
+        "PlacePrice": 1000,
+        "Max": 4,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18,
+                "Damage": 90,
+                "Cooldown": 0.6
+            },
+            {
+                "Price": 1000,
+                "Range": 20,
+                "Damage": 120,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 1100,
+                "Range": 22,
+                "Damage": 140,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 1250,
+                "Range": 24,
+                "Damage": 150,
+                "Cooldown": 0.5
+            }
+        ]
+    },
+      "Orange Henry": {
+        "Type": "Poison",
+        "Image": "rbxassetid://83326807175627",
+        "Rarity": "Secret",
+        "PlacePrice": 800,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 23,
+                "Damage": 900,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 900,
+                "Range": 25,
+                "Damage": 1050,
+                "Cooldown": 1.35
+            },
+            {
+                "Price": 1000,
+                "Range": 27,
+                "Damage": 1200,
+                "Cooldown": 1.1
+            },
+            {
+                "Price": 1250,
+                "Range": 30,
+                "Damage": 1350,
+                "Cooldown": 1
+            }
+        ]
+    },
      "Shadow Foxy": {
         "Type": "Single",
         "Image": "rbxassetid://127011830396874",
