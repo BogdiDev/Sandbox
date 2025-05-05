@@ -1,4 +1,4 @@
-{
+ {
     "Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://16620053009",
@@ -93,25 +93,25 @@
             {
                 "Price": 0,
                 "Range": 24,
-                "Damage": 250,
+                "Damage": 350,
                 "Cooldown": 0.1
             },
             {
                 "Price": 12000,
                 "Range": 26,
-                "Damage": 275,
+                "Damage": 400,
                 "Cooldown": 0.1
             },
             {
                 "Price": 12500,
                 "Range": 28,
-                "Damage": 300,
+                "Damage": 450,
                 "Cooldown": 0.1
             },
             {
                 "Price": 13500,
                 "Range": 30,
-                "Damage": 350,
+                "Damage": 500,
                 "Cooldown": 0.1
             }
         ]
