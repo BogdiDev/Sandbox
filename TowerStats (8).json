@@ -38,6 +38,84 @@
             }
         ]
     },
+   "Neon Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://78291867214334",
+        "Rarity": "Secret",
+        "PlacePrice": 8000,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 1350,
+                "Cooldown": 0.9
+            },
+            {
+                "Price": 8500,
+                "Range": 28,
+                "Damage": 1500,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 9000,
+                "Range": 30,
+                "Damage": 1750,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 10000,
+                "Range": 32,
+                "Damage": 2000,
+                "Cooldown": 0.75
+            }
+        ]
+    },
+   "Neon Chica": {
+        "Type": "Splash",
+        "Image": "rbxassetid://79886537328533",
+        "Rarity": "Epic",
+        "PlacePrice": 5000,
+        "Max": 2,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18,
+                "Damage": 600,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 5600,
+                "Range": 20,
+                "Damage": 700,
+                "Cooldown": 2.3
+            },
+            {
+                "Price": 6000,
+                "Range": 23,
+                "Damage": 850,
+                "Cooldown": 2.2
+            },
+            {
+                "Price": 7500,
+                "Range": 25,
+                "Damage": 900,
+                "Cooldown": 2
+            }
+        ]
+    },
    "Neon Toy Bonnie": {
         "Type": "Single",
         "Image": "rbxassetid://126258817034058",
