@@ -38,12 +38,12 @@
             }
         ]
     },
-   "Shadow Balloon Boy": {
+    "Shadow Withered Chica": {
         "Type": "Single",
-        "Image": "rbxassetid://16620053009",
-        "Rarity": "Nightmare",
-        "PlacePrice": 300,
-        "Max": 8,
+        "Image": "rbxassetid://112445616128513",
+        "Rarity": "Secret",
+        "PlacePrice": 9500,
+        "Max": 3,
         "Offset": 0.3,
         "hitboxOffset": {
             "X": 0,
@@ -53,27 +53,118 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
+                "Range": 23,
+                "Damage": 1500,
                 "Cooldown": 1
             },
             {
-                "Price": 500,
-                "Range": 12,
-                "Damage": 50,
-                "Cooldown": 1
+                "Price": 10000,
+                "Range": 25,
+                "Damage": 1850,
+                "Cooldown": 0.9
             },
             {
-                "Price": 750,
-                "Range": 14,
-                "Damage": 60,
-                "Cooldown": 1
+                "Price": 12500,
+                "Range": 27,
+                "Damage": 2250,
+                "Cooldown": 0.8
             },
             {
-                "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
+                "Price": 15000,
+                "Range": 30,
+                "Damage": 2500,
+                "Cooldown": 0.7
+            }
+        ]
+    },
+   "Shadow Scott": {
+        "Type": "Splash",
+        "Image": "rbxassetid://76119624432264",
+        "Rarity": "Nightmare",
+        "PlacePrice": 5000,
+        "Offset": 1.25,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 2000,
+                "Cooldown": 2.5
+            },
+
+            {
+                "Price": 10000,
+                "Range": 28,
+                "Damage": 2500,
+                "Cooldown": 2.4
+            },
+            {
+                "Price": 12500,
+                "Range": 31,
+                "Damage": 3000,
+                "Cooldown": 2.3
+            },
+            {
+                "Price": 15000,
+                "Range": 34,
+                "Damage": 3500,
+                "Cooldown": 2.2
+            },
+            {
+                "Price": 17500,
+                "Range": 37,
+                "Damage": 4000,
+                "Cooldown": 2.1
+            },
+            {
+                "Price": 20000,
+                "Range": 45,
+                "Damage": 4500,
+                "Cooldown": 2
+            }
+        ]
+    },
+   "Shadow Balloon Boy": {
+        "Type": "Nuke",
+        "Image": "rbxassetid://75321903246340",
+        "Rarity": "Nightmare",
+        "PlacePrice": 15000,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 21,
+                "Damage": 2500,
+                "Cooldown": 3
+            },
+            {
+                "Price": 17500,
+                "Range": 24,
+                "Damage": 3000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 20000,
+                "Range": 25,
+                "Damage": 3500,
+                "Cooldown": 3
+            },
+            {
+                "Price": 25000,
+                "Range": 27,
+                "Damage": 4000,
+                "Cooldown": 3
             }
         ]
     },
