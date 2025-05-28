@@ -38,6 +38,45 @@
             }
         ]
     },
+   "Prince Bonnie": {
+        "Type": "Continous",
+        "Image": "rbxassetid://16620053009",
+        "Rarity": "Epic",
+        "PlacePrice": 600,
+        "Max": 4,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18,
+                "Damage": 25,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 900,
+                "Range": 20,
+                "Damage": 30,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 1000,
+                "Range": 22,
+                "Damage": 35,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 1250,
+                "Range": 25,
+                "Damage": 40,
+                "Cooldown": 0.1
+            }
+        ]
+    },
   "Prince Foxy": {
         "Type": "Single",
         "Image": "rbxassetid://16620053009",
