@@ -83,7 +83,7 @@
         "Rarity": "Modded",
         "PlacePrice": 20000,
         "Offset": 0.3,
-        "Max": 2,
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
