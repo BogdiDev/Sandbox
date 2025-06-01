@@ -38,6 +38,84 @@
             }
         ]
     },
+    "Shadow Springtrap": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://81864412337946",
+        "Rarity": "Apex",
+        "PlacePrice": 25000,
+        "Max": 2,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 4500,
+                "Cooldown": 1.1
+            },
+            {
+                "Price": 27500,
+                "Range": 27,
+                "Damage": 5000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 30000,
+                "Range": 30,
+                "Damage": 5500,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 35000,
+                "Range": 32,
+                "Damage": 6000,
+                "Cooldown": 0.75
+            }
+        ]
+    },
+"Shadow Toy Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://81359612557207",
+        "Rarity": "Nightmare",
+        "PlacePrice": 17500,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 23,
+                "Damage": 800,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 20000,
+                "Range": 25,
+                "Damage": 900,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 22500,
+                "Range": 26,
+                "Damage": 1000,
+                "Cooldown": 0.35
+            },
+            {
+                "Price": 25000,
+                "Range": 30,
+                "Damage": 1100,
+                "Cooldown": 0.35
+            }
+        ]
+    },
  "Chef Purple Guy": {
         "Type": "Single",
         "Image": "rbxassetid://16620053009",
