@@ -38,6 +38,45 @@
             }
         ]
     },
+ "Golden Circus Baby": {
+        "Type": "Single",
+        "Image": "rbxassetid://119161011209851",
+        "Rarity": "Secret",
+        "PlacePrice": 6650,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 24,
+                "Damage": 2500,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 7000,
+                "Range": 27,
+                "Damage": 3000,
+                "Cooldown": 2.2
+            },
+            {
+                "Price": 8500,
+                "Range": 30,
+                "Damage": 3500,
+                "Cooldown": 2
+            },
+            {
+                "Price": 10000,
+                "Range": 32,
+                "Damage": 3750,
+                "Cooldown": 2
+            }
+        ]
+    },
  "Shadow Springtrap": {
         "Type": "Pierce",
         "Image": "rbxassetid://81864412337946",
