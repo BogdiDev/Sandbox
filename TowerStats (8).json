@@ -2822,31 +2822,31 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 27,
+                "Range": 32,
                 "Damage": 6000,
                 "Cooldown": 3.5
             },
             {
                 "Price": 50000,
-                "Range": 29,
+                "Range": 35,
                 "Damage": 7500,
                 "Cooldown": 3
             },
             {
                 "Price": 60000,
-                "Range": 32,
+                "Range": 38,
                 "Damage": 10000,
                 "Cooldown": 2.8
             },
             {
                 "Price": 70000,
-                "Range": 35,
+                "Range": 40,
                 "Damage": 12500,
                 "Cooldown": 2.8
             },
             {
                 "Price": 80000,
-                "Range": 35,
+                "Range": 42,
                 "Damage": 14000,
                 "Cooldown": 2.6
             }
