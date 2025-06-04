@@ -38,6 +38,45 @@
             }
         ]
     },
+ "Zombie Foxy": {
+        "Type": "Single",
+        "Image": "rbxassetid://16620053009",
+        "Rarity": "Epic",
+        "PlacePrice": 800,
+        "Max": 4,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 250,
+                "Cooldown": 1
+            },
+            {
+                "Price": 900,
+                "Range": 21,
+                "Damage": 300,
+                "Cooldown": 0.9
+            },
+            {
+                "Price": 1000,
+                "Range": 22,
+                "Damage": 350,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 1250,
+                "Range": 24,
+                "Damage": 400,
+                "Cooldown": 0.75
+            }
+        ]
+    },
 "Zombie Chica": {
         "Type": "Splash",
         "Image": "rbxassetid://99791869235236",
