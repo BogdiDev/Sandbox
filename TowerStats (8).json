@@ -38,6 +38,127 @@
             }
         ]
     },
+"Snow Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://16620053009",
+        "Rarity": "Uncommon",
+        "PlacePrice": 300,
+        "Max": 8,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 40,
+                "Cooldown": 1
+            },
+            {
+                "Price": 500,
+                "Range": 12,
+                "Damage": 50,
+                "Cooldown": 1
+            },
+            {
+                "Price": 750,
+                "Range": 14,
+                "Damage": 60,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1250,
+                "Range": 15,
+                "Damage": 60,
+                "Cooldown": 0.75
+            }
+        ]
+    },
+   "Zombie Endo": {
+        "Type": "Range Booster",
+        "Image": "rbxassetid://107099784465394",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "NoEnemyAttack": true,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.2
+            },
+            {
+                "Price": 1200,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.28
+            },
+            {
+                "Price": 1400,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.36
+            },
+            {
+                "Price": 1800,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.4
+            }
+        ]
+    },
+ "Zombie Golden Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://129323562316798",
+        "Rarity": "Divine",
+        "PlacePrice": 10000,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 26,
+                "Damage": 2000,
+                "Cooldown": 1.2
+            },
+            {
+                "Price": 12500,
+                "Range": 28,
+                "Damage": 2500,
+                "Cooldown": 1.1
+            },
+            {
+                "Price": 14500,
+                "Range": 30,
+                "Damage": 2750,
+                "Cooldown": 1
+            },
+            {
+                "Price": 15000,
+                "Range": 32,
+                "Damage": 3000,
+                "Cooldown": 0.9
+            }
+        ]
+    },
   "Zombie Toy Bonnie": {
         "Type": "AOE",
         "Image": "rbxassetid://70801972566721",
