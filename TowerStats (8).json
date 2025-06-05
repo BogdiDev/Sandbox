@@ -38,6 +38,49 @@
             }
         ]
     },
+   "Zombie Endo": {
+        "Type": "Support",
+        "Image": "rbxassetid://18255863130",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "NoEnemyAttack": true,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.05
+            },
+            {
+                "Price": 1200,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.1
+            },
+            {
+                "Price": 1400,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.15
+            },
+            {
+                "Price": 1800,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.2
+            }
+        ]
+    },
  "Zombie Golden Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://16620053009",
