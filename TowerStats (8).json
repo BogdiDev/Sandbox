@@ -79,7 +79,7 @@
     },
    "Zombie Endo": {
         "Type": "Range Booster",
-        "Image": "rbxassetid://107099784465394",
+        "Image": "rbxassetid://112681303774407",
         "Rarity": "Secret",
         "PlacePrice": 1000,
         "NoEnemyAttack": true,
@@ -122,7 +122,7 @@
     },
  "Zombie Golden Freddy": {
         "Type": "Single",
-        "Image": "rbxassetid://129323562316798",
+        "Image": "rbxassetid://124909643671677",
         "Rarity": "Divine",
         "PlacePrice": 10000,
         "Max": 3,
