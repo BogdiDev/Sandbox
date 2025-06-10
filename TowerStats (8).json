@@ -38,6 +38,49 @@
             }
         ]
     },
+  "Ice Cream Bonnie": {
+        "Type": "Damage Booster",
+        "Image": "rbxassetid://89948813159427",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "NoEnemyAttack": true,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 21,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.16
+            },
+            {
+                "Price": 1300,
+                "Range": 21,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.23
+            },
+            {
+                "Price": 1700,
+                "Range": 21,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.3
+            },
+            {
+                "Price": 2500,
+                "Range": 21,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.36
+            }
+        ]
+    },
   "Summer Foxy": {
         "Type": "Single",
         "Image": "rbxassetid://110765546789660",
