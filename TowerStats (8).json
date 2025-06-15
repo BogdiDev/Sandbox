@@ -123,9 +123,9 @@
    "McDonalds Chica": {
         "Type": "Single",
         "Image": "rbxassetid://91481166545611",
-        "Rarity": "Uncommon",
-        "PlacePrice": 300,
-        "Max": 8,
+        "Rarity": "Mythic",
+        "PlacePrice": 1500,
+        "Max": 2,
         "Offset": 0.3,
         "hitboxOffset": {
             "X": 0,
@@ -135,27 +135,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
+                "Range": 25,
+                "Damage": 600,
                 "Cooldown": 1
             },
             {
-                "Price": 500,
-                "Range": 12,
-                "Damage": 50,
+                "Price": 1750,
+                "Range": 26,
+                "Damage": 650,
                 "Cooldown": 1
             },
             {
-                "Price": 750,
-                "Range": 14,
-                "Damage": 60,
+                "Price": 2000,
+                "Range": 27,
+                "Damage": 700,
                 "Cooldown": 1
             },
             {
-                "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
+                "Price": 2500,
+                "Range": 28,
+                "Damage": 750,
+                "Cooldown": 1
             }
         ]
     },
@@ -199,11 +199,11 @@
         ]
     },
   "Burger Freddy": {
-        "Type": "Single",
+        "Type": "Splash",
         "Image": "rbxassetid://102021078230345",
-        "Rarity": "Secret",
-        "PlacePrice": 300,
-        "Max": 8,
+        "Rarity": "Nightmare",
+        "PlacePrice": 6500,
+        "Max": 3,
         "Offset": 0.3,
         "hitboxOffset": {
             "X": 0,
@@ -214,26 +214,26 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 40,
+                "Damage": 2750,
                 "Cooldown": 1.5
             },
             {
-                "Price": 500,
-                "Range": 12,
-                "Damage": 50,
-                "Cooldown": 1
+                "Price": 7500,
+                "Range": 27,
+                "Damage": 3250,
+                "Cooldown": 1.5
             },
             {
-                "Price": 750,
-                "Range": 14,
-                "Damage": 60,
-                "Cooldown": 1
+                "Price": 9000,
+                "Range": 30,
+                "Damage": 3750,
+                "Cooldown": 1.5
             },
             {
-                "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
+                "Price": 12500,
+                "Range": 30,
+                "Damage": 4250,
+                "Cooldown": 1.5
             }
         ]
     },
