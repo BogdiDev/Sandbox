@@ -38,6 +38,45 @@
             }
         ]
     },
+   "Tung Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://105095647893453",
+        "Rarity": "Secret",
+        "PlacePrice": 10000,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 2000,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 12500,
+                "Range": 24,
+                "Damage": 2500,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 15000,
+                "Range": 25,
+                "Damage": 3000,
+                "Cooldown": 1.25
+            },
+            {
+                "Price": 20000,
+                "Range": 30,
+                "Damage": 3500,
+                "Cooldown": 1.25
+            }
+        ]
+    },
   "Ice Cream Bonnie": {
         "Type": "Damage Booster",
         "Image": "rbxassetid://115593345092982",
