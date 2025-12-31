@@ -37,10 +37,132 @@
                 "Cooldown": 0.75
             }
         ]
+     
+    },
+  "Seferhan": {
+        "Type": "Single",
+        "Image": "rbxassetid://117056529895561",
+        "Rarity": "Secret",
+        "PlacePrice": 500,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 600,
+                "Cooldown": 0.75
+            },
+            {
+                "Price": 750,
+                "Range": 22,
+                "Damage": 750,
+                "Cooldown": 0.7
+            },
+            {
+                "Price": 1000,
+                "Range": 24,
+                "Damage": 900,
+                "Cooldown": 0.65
+            },
+            {
+                "Price": 1250,
+                "Range": 25,
+                "Damage": 1000,
+                "Cooldown": 0.6
+            }
+        ]
+    },
+  "Ken": {
+        "Type": "Damage Booster",
+        "Image": "rbxassetid://127438874321536",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "NoEnemyAttack": true,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 23,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.28
+            },
+            {
+                "Price": 1300,
+                "Range": 24,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.35
+            },
+            {
+                "Price": 1700,
+                "Range": 25,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.42
+            },
+            {
+                "Price": 2500,
+                "Range": 25,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.5
+            }
+        ]
+    },
+   "MrBeastFNTD": {
+        "Type": "Splash",
+        "Image": "rbxassetid://100819542741834",
+        "Rarity": "Secret",
+        "PlacePrice": 20000,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 3000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 25000,
+                "Range": 18,
+                "Damage": 3500,
+                "Cooldown": 2
+            },
+            {
+                "Price": 30000,
+                "Range": 20,
+                "Damage": 4000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 35000,
+                "Range": 22,
+                "Damage": 5000,
+                "Cooldown": 2
+            }
+        ]
     },
   "Guard Freddy": {
         "Type": "Single",
-        "Image": "rbxassetid://16620053009",
+        "Image": "rbxassetid://76174315890403",
         "Rarity": "Secret",
         "PlacePrice": 1200,
         "Max": 3,
