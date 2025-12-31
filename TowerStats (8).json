@@ -38,6 +38,45 @@
             }
         ]
     },
+  "Guard Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://16620053009",
+        "Rarity": "Secret",
+        "PlacePrice": 1200,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 100,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 1500,
+                "Range": 24,
+                "Damage": 135,
+                "Cooldown": 0.15
+            },
+            {
+                "Price": 1750,
+                "Range": 26,
+                "Damage": 170,
+                "Cooldown": 0.15
+            },
+            {
+                "Price": 2000,
+                "Range": 28,
+                "Damage": 200,
+                "Cooldown": 0.15
+            }
+        ]
+    },
    "Tung Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://105095647893453",
