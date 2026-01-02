@@ -39,6 +39,178 @@
         ]
      
     },
+  "Red Phantom Foxy": {
+        "Type": "Single",
+        "Image": "rbxassetid://131564921980897",
+        "Rarity": "Epic",
+        "PlacePrice": 1000,
+        "Max": 4,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 16,
+                "Damage": 600,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 1000,
+                "Range": 18,
+                "Damage": 700,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 1000,
+                "Range": 20,
+                "Damage": 800,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 1250,
+                "Range": 20,
+                "Damage": 900,
+                "Cooldown": 1.5
+            }
+        ]
+     
+    },
+   "Red Toy Chica": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://74999095796625",
+        "Rarity": "Mythic",
+        "PlacePrice": 900,
+        "Max": 4,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 300,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1000,
+                "Range": 22,
+                "Damage": 350,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1200,
+                "Range": 25,
+                "Damage": 400,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1250,
+                "Range": 25,
+                "Damage": 500,
+                "Cooldown": 0.8
+            }
+        ]
+     
+    },
+   "Red Shadow Bonnie": {
+        "Type": "AOE",
+        "Image": "rbxassetid://96494088752424",
+        "Rarity": "Nightmare",
+        "PlacePrice": 20000,
+        "Max": 2,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 24,
+                "Damage": 400,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 22500,
+                "Range": 26,
+                "Damage": 450,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 25000,
+                "Range": 28,
+                "Damage": 500,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 30000,
+                "Range": 30,
+                "Damage": 550,
+                "Cooldown": 0.1
+            }
+        ]
+     
+    },
+    "Red Bounded Shadow": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://111630421346858",
+        "Rarity": "Nightmare",
+        "PlacePrice": 17500,
+        "Offset": 1.25,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 2500,
+                "Cooldown": 2.5
+            },
+
+            {
+                "Price": 20000,
+                "Range": 28,
+                "Damage": 3000,
+                "Cooldown": 2.4
+            },
+            {
+                "Price": 25000,
+                "Range": 31,
+                "Damage": 3500,
+                "Cooldown": 2.3
+            },
+            {
+                "Price": 30000,
+                "Range": 34,
+                "Damage": 4000,
+                "Cooldown": 2.2
+            },
+            {
+                "Price": 35000,
+                "Range": 37,
+                "Damage": 4500,
+                "Cooldown": 2.1
+            },
+            {
+                "Price": 40000,
+                "Range": 40,
+                "Damage": 5000,
+                "Cooldown": 2
+            }
+        ]
+    },
   "Seferhan": {
         "Type": "Single",
         "Image": "rbxassetid://117056529895561",
