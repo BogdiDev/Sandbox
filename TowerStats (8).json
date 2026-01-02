@@ -39,6 +39,126 @@
         ]
      
     },
+   "Santa Chica": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://116059938593994",
+        "Rarity": "Epic",
+        "PlacePrice": 2000,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 24,
+                "Damage": 500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 2500,
+                "Range": 28,
+                "Damage": 550,
+                "Cooldown": 1
+            },
+            {
+                "Price": 3000,
+                "Range": 32,
+                "Damage": 600,
+                "Cooldown": 0.9
+            },
+            {
+                "Price": 3500,
+                "Range": 35,
+                "Damage": 700,
+                "Cooldown": 0.8
+            }
+        ]
+     
+    },
+   "Santa Bonnie": {
+        "Type": "Continous",
+        "Image": "rbxassetid://84894904520179",
+        "Rarity": "Mythic",
+        "PlacePrice": 5000,
+        "Max": 4,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 35,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 6500,
+                "Range": 23,
+                "Damage": 50,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 7500,
+                "Range": 25,
+                "Damage": 65,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 10000,
+                "Range": 27,
+                "Damage": 80,
+                "Cooldown": 0.05
+            }
+        ]
+     
+    },
+  "Elf Puppet": {
+        "Type": "Single",
+        "Image": "rbxassetid://71066182177502",
+        "Rarity": "Divine",
+        "PlacePrice": 17500,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 24,
+                "Damage": 3000,
+                "Cooldown": 2.25
+            },
+            {
+                "Price": 20000,
+                "Range": 27,
+                "Damage": 3500,
+                "Cooldown": 2.2
+            },
+            {
+                "Price": 22500,
+                "Range": 30,
+                "Damage": 4000,
+                "Cooldown": 2.1
+            },
+            {
+                "Price": 25000,
+                "Range": 33,
+                "Damage": 4500,
+                "Cooldown": 2
+            }
+        ]
+     
+    },
   "Santa Freddy": {
         "Type": "Splash",
         "Image": "rbxassetid://107252647014082",
