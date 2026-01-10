@@ -39,6 +39,51 @@
         ]
      
     },
+   "Freddy Firebear": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://133456032977268",
+        "Rarity": "Secret",
+        "PlacePrice": 17171,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 1500,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 20000,
+                "Range": 28,
+                "Damage": 1900,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 25000,
+                "Range": 30,
+                "Damage": 2250,
+                "Cooldown": 0.7
+            },
+            {
+                "Price": 30000,
+                "Range": 32,
+                "Damage": 2500,
+                "Cooldown": 0.7
+            },
+            {
+                "Price": 35000,
+                "Range": 35,
+                "Damage": 3000,
+                "Cooldown": 0.7
+            }
+        ]
+    },
    "New Year Freddy": {
         "Type": "Nuke",
         "Image": "rbxassetid://140577103538988",
