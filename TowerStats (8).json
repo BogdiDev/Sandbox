@@ -39,6 +39,200 @@
         ]
      
     },
+   "Miner Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://120396233563845",
+        "Rarity": "Epic",
+        "PlacePrice": 600,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 17,
+                "Damage": 250,
+                "Cooldown": 1
+            },
+            {
+                "Price": 750,
+                "Range": 19,
+                "Damage": 300,
+                "Cooldown": 0.9
+            },
+            {
+                "Price": 900,
+                "Range": 20,
+                "Damage": 350,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 1000,
+                "Range": 22,
+                "Damage": 400,
+                "Cooldown": 0.75
+            }
+        ]
+    },
+ "Long Ears Foxy": {
+        "Type": "Single",
+        "Image": "rbxassetid://138313584827993",
+        "Rarity": "Mythic",
+        "PlacePrice": 800,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 19,
+                "Damage": 350,
+                "Cooldown": 1.2
+            },
+            {
+                "Price": 850,
+                "Range": 21,
+                "Damage": 450,
+                "Cooldown": 1.1
+            },
+            {
+                "Price": 1000,
+                "Range": 22,
+                "Damage": 500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1250,
+                "Range": 23,
+                "Damage": 550,
+                "Cooldown": 0.9
+            }
+        ]
+    },
+"Gub Bonnie": {
+        "Type": "Single",
+        "Image": "rbxassetid://96162056909422",
+        "Rarity": "Secret",
+        "PlacePrice": 7500,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1450,
+                "Cooldown": 1
+            },
+            {
+                "Price": 8500,
+                "Range": 24,
+                "Damage": 1650,
+                "Cooldown": 1
+            },
+            {
+                "Price": 10000,
+                "Range": 26,
+                "Damage": 1850,
+                "Cooldown": 1
+            },
+            {
+                "Price": 11500,
+                "Range": 28,
+                "Damage": 2000,
+                "Cooldown": 0.75
+            }
+        ]
+    },
+  "Chungus Springtrap": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://138409355850996",
+        "Rarity": "Nightmare",
+        "PlacePrice": 15000,
+        "Max": 2,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 3000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 17500,
+                "Range": 27,
+                "Damage": 3350,
+                "Cooldown": 2
+            },
+            {
+                "Price": 20000,
+                "Range": 30,
+                "Damage": 3700,
+                "Cooldown": 2
+            },
+            {
+                "Price": 25500,
+                "Range": 33,
+                "Damage": 4000,
+                "Cooldown": 2
+            }
+        ]
+    },
+    "Chica": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://16620303027",
+        "Rarity": "Uncommon",
+        "PlacePrice": 500,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 50,
+                "Cooldown": 2
+            },
+            {
+                "Price": 800,
+                "Range": 10,
+                "Damage": 60,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1200,
+                "Range": 12,
+                "Damage": 60,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1500,
+                "Range": 14,
+                "Damage": 60,
+                "Cooldown": 1.5
+            }
+        ]
+    },
    "Freddy Firebear": {
         "Type": "Pierce",
         "Image": "rbxassetid://133456032977268",
