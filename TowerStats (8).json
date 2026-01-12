@@ -39,6 +39,45 @@
         ]
      
     },
+   "Righty": {
+        "Type": "AOE",
+        "Image": "rbxassetid://125950584650856",
+        "Rarity": "Modded",
+        "PlacePrice": 20000,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 800,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 25000,
+                "Range": 32,
+                "Damage": 850,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 30000,
+                "Range": 34,
+                "Damage": 900,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 35000,
+                "Range": 35,
+                "Damage": 1000,
+                "Cooldown": 0.1
+            }
+        ]
+    },
   "Frost Bonnie": {
         "Type": "Splash",
         "Image": "rbxassetid://134724598885981",
