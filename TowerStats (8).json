@@ -39,6 +39,45 @@
         ]
      
     },
+   "Banana Fredbear": {
+        "Type": "Single",
+        "Image": "rbxassetid://82849257313904",
+        "Rarity": "Secret",
+        "PlacePrice": 800,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 24,
+                "Damage": 900,
+                "Cooldown": 1
+            },
+            {
+                "Price": 900,
+                "Range": 26,
+                "Damage": 1000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1000,
+                "Range": 28,
+                "Damage": 1100,
+                "Cooldown": 0.9
+            },
+            {
+                "Price": 1250,
+                "Range": 30,
+                "Damage": 1200,
+                "Cooldown": 0.8
+            }
+        ]
+    },
    "Miner Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://120396233563845",
